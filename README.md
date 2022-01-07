@@ -1,2 +1,2 @@
 # scala-notes
-Some notes that I made during playing with scala language
+Some notes I made for myself while playing with the scala language (scala 2)
